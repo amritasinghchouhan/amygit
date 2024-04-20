@@ -1,0 +1,2 @@
+# amygit
+practical
